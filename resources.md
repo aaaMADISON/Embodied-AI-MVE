@@ -1,0 +1,6 @@
+- 任务（快速核验并记录）：
+  - 硬件：是否有 ESP32 / Raspberry Pi / IMU / 温度传感器？若无，记录可接受替代（USB 摄像头+PC仿真或手机传感器）。  
+  - 软件：是否有 GitHub 账号、能否使用 GitHub Copilot（或 ChatGPT/Claude）？是否能创建 Trello/Jira 项目？  
+  - 预算/时间：确认是否能当天购买小配件（若需要）。
+- 产出：resources.md（简表，列出每项是/否与备注）
+- 验收：resources.md 完成
